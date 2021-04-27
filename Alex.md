@@ -1,3 +1,4 @@
+
 <h6>Licensing<h6>
 Any work that is produced in the Uk, the owner has copyright to that file created.
 There are two types of licensing: Permissive and Strong Copyleft
@@ -29,3 +30,5 @@ cd [directory]
 
 - Once found the licensing file, open the file to check what kind of licensing it is.
 cat LICENSE
+
+
