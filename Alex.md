@@ -1,5 +1,5 @@
 
-<h6> Licensing <h6>
+<h6>Licensing<h6>
 Any work that is produced in the Uk, the owner has copyright to that file created.
 There are two types of licensing: Permissive and Strong Copyleft
 
@@ -10,7 +10,7 @@ Common permessive license seen:
 - ISC
 - BSD
 
-Note MIT allows a project to be used as a dep
+Note MIT allows a project to be used as a dependency in another
 
 The strong copyleft licensing requires the user wanting to use the owner's repository/code must have the same licensing as the owners.
 Common strong copyleft license seen:
@@ -20,7 +20,7 @@ Common strong copyleft license seen:
 <strong>Steps to view licensing</strong>
 
 - Need to clone the repository you want.
-git clone !URL!
+<blockquote><p>git clone [URL]</p>
 
 - Then after you clone the repository list all files.
 ls
