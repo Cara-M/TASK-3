@@ -10,7 +10,7 @@ Common permessive license seen:
 - ISC
 - BSD
 
-Note MIT allows a project to be used as a dependency in another
+Note MIT allows a project to be used as a dependency in another.
 
 The strong copyleft licensing requires the user wanting to use the owner's repository/code must have the same licensing as the owners.
 Common strong copyleft license seen:
@@ -20,7 +20,7 @@ Common strong copyleft license seen:
 <strong>Steps to view licensing</strong>
 
 - Need to clone the repository you want.
-<blockquote><p>git clone [URL]</p>
+git clone [URL]
 
 - Then after you clone the repository list all files.
 ls
