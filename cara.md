@@ -1,4 +1,4 @@
-#Ignoring Files 
+##Ignoring Files 
 
 It is important to understand how to ignore files in a directory that we do not want to push to GitHib.
 
