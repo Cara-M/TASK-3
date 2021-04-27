@@ -25,3 +25,12 @@ Again, we go to nano to specify what directory to ignore.
  - You can put a slash after the directory name to specify to ignore
  - directorytoignore/  = ignore this entire directory 
  - **/directorytoignore/  = ignore anything inside this directory 
+
+## Ignoring a single file within a directory 
+We have the option to push directories to GitHub, but ignore individual files inside it.
+To do this, we can use the following command in nano:
+ - **/filetoignore/
+This tells Git to ignore the specified file when pushing to GitHUb.
+All other files inside the directory will not be affected. 
+
+
